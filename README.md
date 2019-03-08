@@ -1,4 +1,4 @@
-<font size="40">SWF 1.511 Transformice</font>
+<h1>SWF 1.511 Transformice</h1>
 <hr>
 
 Packet Keys : [56, 20, 37, 9, 31, 16, 47, 32, 13, 26, 87, 80, 102, 105, 102, 74, 127, 83, 73, 70]<br>
